@@ -1,0 +1,15 @@
+{
+  "name": "cvr-api",
+  "version": "1.0.0",
+  "description": "Et Node.js komponent (modul), som kan trække virksomhedsdata fra CVR-API.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erik Ruhmanis",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0",
+    "utf8": "^3.0.0"
+  }
+}
